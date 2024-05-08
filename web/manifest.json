@@ -1,6 +1,6 @@
 {
-    "name": "flutter_pomidoro_timer",
-    "short_name": "flutter_pomidoro_timer",
+    "name": "timer_app",
+    "short_name": "timer_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

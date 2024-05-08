@@ -39,7 +39,7 @@ dependencies:
   timer_count_down: ^2.2.2
   google_fonts: ^4.0.3
   shared_preferences: ^2.0.20
-  sharedpreference: ^0.0.1
+  
 
 
 dev_dependencies:
